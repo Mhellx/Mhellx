@@ -1,7 +1,6 @@
-Oioi eu sou o Michell Pereira :P
+Opa! eu sou o Michell :P
 
 - 🌱  Cursando Análise e Desenvolvimento de Sistemas
-- 🕹️  Gosto de jogos e animes
 
 <div align="center">
   <a href="https://github.com/xOzyx">
