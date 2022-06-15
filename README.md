@@ -3,7 +3,7 @@ Opa! eu sou o Michell :P
 - 🌱  Cursando Análise e Desenvolvimento de Sistemas
 - <img style="margin-top: 100" height="17" src="https://www.svgrepo.com/show/331368/discord-v2.svg">&nbsp;&nbsp;Ozy.jar#8014
 
-<div align="center">
+<div>
   <a href="https://github.com/xOzyx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xozyx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xozyx&layout=compact&langs_count=7&theme=dracula"/>
