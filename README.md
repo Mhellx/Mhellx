@@ -1,7 +1,6 @@
 Opa! eu sou o Michell :P
 
 - 🌱  Cursando Análise e Desenvolvimento de Sistemas
-- <img align="center" height="20" src="https://www.svgrepo.com/show/331368/discord-v2.svg">&nbsp;&nbsp;Ozy.jar#8014
 
 <div align="center">
   <a href="https://github.com/xOzyx">
