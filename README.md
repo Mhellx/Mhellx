@@ -8,11 +8,22 @@ Opa! eu sou o Michell :P
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhellx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Mhellx-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mhellx-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Mhellx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mhellx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mhellx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML-Icon" height="30" width="40" title="HTML"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+                <img align="center" alt="CSS-Icon" height="30" width="40" title="CSS"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+                <img align="center" alt="JavaScript-Icon" height="30" width="40" title="JavaScript"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+                <img align="center" alt="PHP-Icon" height="30" width="40" title="PHP"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+                <img align="center" alt="Java-Icon" height="30" width="40" title="Java"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+                <img align="center" alt="Spring-Icon" height="30" width="40" title="Spring"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+                <img align="center" alt="Python-Icon" height="30" width="40" title="Python"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+                <img align="center" alt="Django-Icon" height="30" width="40" title="Django"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   
   
   ##
